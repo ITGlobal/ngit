@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NGit-ITG</id>
+    <version>$version$</version>
+    <title>NGit</title>
+    <authors>The JGit Team,Lluis Sanchez</authors>
+    <owners>Paul Betts</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Machine translation of the JGit library to C#</description>
+    <copyright>Copyright owners detailed at http://eclipse.org/jgit in the JGit IP log</copyright>
+    <dependencies>
+      <dependency id="SharpZipLib" version="0.86.0" />
+    </dependencies>
+  </metadata>
+</package>
