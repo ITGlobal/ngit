@@ -11,6 +11,12 @@
     <copyright>Copyright owners detailed at http://eclipse.org/jgit in the JGit IP log</copyright>
     <dependencies>
       <dependency id="SharpZipLib" version="0.86.0" />
+      <dependency id="Mono.Security" version="3.2.3.0" />
     </dependencies>
   </metadata>
+  <files>
+    <file src="..\bin\ngit.dll" target="lib\net40" />
+    <file src="..\bin\nsch.dll" target="lib\net40" />
+    <file src="..\bin\sharpen.dll" target="lib\net40" />
+  </files>
 </package>

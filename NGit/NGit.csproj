@@ -613,6 +613,7 @@
     </MonoDevelop>
   </ProjectExtensions>
   <ItemGroup>
+    <None Include="NGit.nuspec" />
     <None Include="NGit.Storage.File\ChangeLog" />
     <None Include="packages.config" />
   </ItemGroup>
